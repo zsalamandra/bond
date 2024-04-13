@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ac2d30f8-c273-4bc4-a4b2-e12ab2426c06",
+    "customerId": "70664f8b-912e-410a-aa17-662a53bd91ce",
+    "accountId": "7caaa6b5-e31b-4656-960c-3bbc07f675c6",
+    "transactionType": "OPERATION",
+    "objectId": "1110d61e-fe85-40af-9bb2-8c2dc24c08fb",
+    "objectType": "SELL",
+    "incomingAmount": 15793.56,
+    "outgoingAmount": 0,
+    "currency": "RUB",
+    "productId": "7ea26363-6b26-4a67-abbd-c7e3ab2fb9e7",
+    "productType": "OTC_BOND",
+    "incomingProductCount": 0,
+    "outgoingProductCount": 12,
+    "createdAt": "2024-05-29T14:55:41.668+03:00",
+    "productInstancesIds": [
+      "9311a582-e71c-4cf7-988d-1121fdd40630",
+      "9f777c18-eb92-468e-ab86-94e2cfa7d730",
+      "7553abe7-af0d-4f67-b3bf-2a307ce63684"
+    ],
+    "incomingChannel": "LK"
+  },
+  {
+    "id": "95ad024b-a4d1-41b7-b31c-8066a0c9c77f",
+    "customerId": "70664f8b-912e-410a-aa17-662a53bd91ce",
+    "accountId": "7caaa6b5-e31b-4656-960c-3bbc07f675c6",
+    "transactionType": "OPERATION",
+    "objectId": "5a2b4ef3-957a-49f5-bce2-6546f9d59387",
+    "objectType": "SELL",
+    "incomingAmount": 6896.78,
+    "outgoingAmount": 0,
+    "currency": "RUB",
+    "productId": "7ea26363-6b26-4a67-abbd-c7e3ab2fb9e7",
+    "productType": "OTC_BOND",
+    "incomingProductCount": 0,
+    "outgoingProductCount": 6,
+    "createdAt": "2024-05-29T11:50:32.498+03:00",
+    "productInstancesIds": [
+      "9311a582-e71c-4cf7-988d-1121fdd40630"
+    ],
+    "incomingChannel": "LK"
+  },
+  {
+    "id": "1164dbdc-3f0b-41dc-8fbc-04635e274e74",
+    "customerId": "70664f8b-912e-410a-aa17-662a53bd91ce",
+    "accountId": "7caaa6b5-e31b-4656-960c-3bbc07f675c6",
+    "transactionType": "OPERATION",
+    "objectId": "aa9d1082-9fde-4feb-908e-c891d04ad0d6",
+    "objectType": "PURCHASE",
+    "incomingAmount": 0,
+    "outgoingAmount": 9157.76,
+    "currency": "RUB",
+    "productId": "7ea26363-6b26-4a67-abbd-c7e3ab2fb9e7",
+    "productType": "OTC_BOND",
+    "incomingProductCount": 8,
+    "outgoingProductCount": 0,
+    "createdAt": "2024-05-06T11:44:49.645+03:00",
+    "productInstancesIds": [
+      "9f777c18-eb92-468e-ab86-94e2cfa7d730"
+    ],
+    "incomingChannel": "LK"
+  },
+  {
+    "id": "b489ff33-c781-4b85-bea0-4a55f03779cf",
+    "customerId": "70664f8b-912e-410a-aa17-662a53bd91ce",
+    "accountId": "7caaa6b5-e31b-4656-960c-3bbc07f675c6",
+    "transactionType": "OPERATION",
+    "objectId": "08c52d3c-fe66-4899-bcde-6de6ad8bdbfb",
+    "objectType": "PURCHASE",
+    "incomingAmount": 0,
+    "outgoingAmount": 5698.6,
+    "currency": "RUB",
+    "productId": "7ea26363-6b26-4a67-abbd-c7e3ab2fb9e7",
+    "productType": "OTC_BOND",
+    "incomingProductCount": 5,
+    "outgoingProductCount": 0,
+    "createdAt": "2024-04-11T11:36:53.495+03:00",
+    "productInstancesIds": [
+      "7553abe7-af0d-4f67-b3bf-2a307ce63684"
+    ],
+    "incomingChannel": "LK"
+  },
+  {
+    "id": "1b7e8ce8-915a-4395-89ac-4b60075bf41d",
+    "customerId": "70664f8b-912e-410a-aa17-662a53bd91ce",
+    "accountId": "7caaa6b5-e31b-4656-960c-3bbc07f675c6",
+    "transactionType": "OPERATION",
+    "objectId": "dd29938f-b0bf-41c8-b841-da03426b52df",
+    "objectType": "PURCHASE",
+    "incomingAmount": 0,
+    "outgoingAmount": 11197.2,
+    "currency": "RUB",
+    "productId": "7ea26363-6b26-4a67-abbd-c7e3ab2fb9e7",
+    "productType": "OTC_BOND",
+    "incomingProductCount": 10,
+    "outgoingProductCount": 0,
+    "createdAt": "2024-03-29T11:28:43.501282+03:00",
+    "productInstancesIds": [
+      "9311a582-e71c-4cf7-988d-1121fdd40630"
+    ],
+    "incomingChannel": "LK"
+  }
+]
